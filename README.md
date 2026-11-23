@@ -1,4 +1,4 @@
-# Interview Prep Notes
+# AI & Coding Interview Prep
 
 Study notes for software engineering and AI/ML interviews — behavioural, coding, system architecture, machine learning, and LLMs / generative AI. Each topic comes with plain-language explanations, everyday analogies, comparison tables, diagrams, and a one-line "Remember" takeaway.
 
