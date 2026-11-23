@@ -15,6 +15,11 @@ Study notes for software engineering and AI/ML interviews — behavioural, codin
 5. [LLMs & Generative AI](05-llms-generative-ai.md)
    - [RAG & AI Engineering](05-llms-generative-ai.md#rag--ai-engineering) — 15 topics: What is RAG, Embeddings, Vector databases, Chunking, Semantic search, Retriever & Top-K, Context window, Prompt augmentation, Grounding & hallucination, Hybrid search, Reranking, Query rewriting, Metadata filtering, RAG evaluation, Agentic RAG
 
+## Books & resources
+
+- [RESOURCES.md](RESOURCES.md): a reading list of interview and algorithms books, with where to get each one
+- [books/](books/): freely licensed books stored in this repo (currently the *Competitive Programmer's Handbook*)
+
 ## Repository layout
 
 ```
@@ -24,6 +29,8 @@ Study notes for software engineering and AI/ML interviews — behavioural, codin
 ├── 03-system-architecture.md
 ├── 04-ai-machine-learning.md
 ├── 05-llms-generative-ai.md
+├── RESOURCES.md       # reading list
+├── books/             # freely licensed books
 └── images/            # diagrams used in the notes
 ```
 
