@@ -17,7 +17,7 @@ Study notes for software engineering and AI/ML interviews — behavioural, codin
 
 ## Books & resources
 
-- [RESOURCES.md](RESOURCES.md): a reading list of interview and algorithms books, with where to get each one
+- [RESOURCES.md](RESOURCES.md): a reading list of interview and algorithms books, with where to get each one, plus [GitHub repos to check](RESOURCES.md#github-repos-to-check) for coding practice, system design, and AI/ML
 - [books/](books/): freely licensed books stored in this repo (currently the *Competitive Programmer's Handbook*)
 
 ## Repository layout

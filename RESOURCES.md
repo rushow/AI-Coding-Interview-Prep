@@ -30,3 +30,30 @@ Books and handouts for coding interview prep. Only freely licensed material is s
 | --- | --- | --- | --- |
 | The Hitchhiker's Guide to the Programming Contests | Nite Nimajneb | Compact cheat sheet of DP, graph, and flow algorithms | Circulated online; no official source found |
 | Big-O Review (practice handout) | Keith Schwarz, Stanford | Short exercises on finding the runtime of code | Stanford CS106B; see also the course's [Guide to Big-O Notation](https://web.stanford.edu/class/cs106b/resources/bigo_guide.html) |
+
+## GitHub repos to check
+
+### Study plans and coding practice
+
+| Repo | What it's for |
+| --- | --- |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete multi-month CS study plan for software engineering interviews: data structures, algorithms, and CS fundamentals, with curated videos and readings |
+| [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) | NeetCode's solutions to the NeetCode 150 / Blind 75 problems in many languages, to pair with the explanation videos on neetcode.io |
+| [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | LeetCode problems grouped by the companies that ask them, for targeting a specific employer |
+| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | End-to-end interview guide: coding patterns, a study schedule, behavioural questions, resume tips, and negotiation |
+
+### System design
+
+| Repo | What it's for |
+| --- | --- |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | The classic system design guide: scalability concepts, trade-offs, and worked interview questions with diagrams |
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Short visual explainers of system design topics (APIs, caching, databases, architecture patterns) from ByteByteGo |
+| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | A structured system design course, from networking basics to full design case studies |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated articles on how real companies scale, stay reliable, and run large systems |
+
+### AI / ML and LLMs
+
+| Repo | What it's for |
+| --- | --- |
+| [alirezadir/AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) | Prep guide for ML / AI engineer interviews: ML fundamentals, ML system design, and coding |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Sebastian Raschka's code for building a GPT-style LLM step by step in PyTorch, from tokenization through pretraining and fine-tuning |
